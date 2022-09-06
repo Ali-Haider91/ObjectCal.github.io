@@ -1,0 +1,31 @@
+
+.show{
+    align-items: center;
+    display:flex;
+    margin: 2% 2%;
+    padding: 10px;
+    justify-content: flex-start; 
+}
+.show .left-col {
+    display: flex;
+    align-items: center ;
+    justify-content: flex-start;
+    font-size: 20px;
+    width: 5%;
+
+}
+.show .left-rig-col{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    font-size: 20px;
+    width: 15%;
+} 
+.show .center-left-col{
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+    font-size: 20px;
+    width: 20%;
+} 
+
